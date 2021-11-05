@@ -2,9 +2,9 @@
 if [ $# -ne 5 ];
 then
     echo "Usage: 
-        split_into_N_parts_at_pattern.sh <No. of parts> <pattern> <out_dir> <output_prefix> <input_file>
+        split_any_file.sh <No. of parts> <pattern> <out_dir> <output_prefix> <input_file>
         Example:
-        split_into_N_parts_at_pattern.sh 5 id outDir split input.txt"
+        split_any_file.sh 5 id outDir split input.txt"
     exit 1
 fi
 
