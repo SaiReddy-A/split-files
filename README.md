@@ -9,7 +9,7 @@ The [split_any_file.sh](split_any_file.sh) script will split any file into N par
 
 
 ### Installation<br />
-    https://github.com/SaiReddy-A/split-files.git
+    git clone https://github.com/SaiReddy-A/split-files.git
 
  
 ### Usage:<br />
